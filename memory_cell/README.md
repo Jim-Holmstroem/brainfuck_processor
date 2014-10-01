@@ -12,4 +12,4 @@ Up/down 8-bit binary counter to hold the memory state and handle state changes. 
 
 Investigation
 -------------
-* Asyncronous 8-bit counters is 0.7USD while syncronous is 10USD/piece. Can one use async ones?
+* Asynchronous 8-bit counters is 0.7USD while synchronous is 10USD/piece. Can one use async ones?
