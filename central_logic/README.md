@@ -53,3 +53,6 @@ frame_counter
 * (/=0) to check exit search
 
 {8-bit binary counter with 8-input OR} will do
+
+
+Define a state machine for the "flow control"
