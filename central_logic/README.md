@@ -8,7 +8,7 @@ External Interfaces
 * Output to output (technically it also inputs it when recreating *m)
 * Output to memory_cell
 * Input from memory_cell.non_zero
-* Output to memory_address
+* Output to memory_controller
 * Input from clock (redistributed to the surrounding stuff)
 
 External blocks
